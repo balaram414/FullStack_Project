@@ -8,10 +8,10 @@ app.use(express.json());
 
 // Route
 app.get("/", (req, res) => {
-  res.send("Backend Server is Running!");
+  res.send("Backend Server is Running #####!");
 });
 
 // Start Server
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+  console.log(`############Server running on http://localhost:${PORT}`);
 });
