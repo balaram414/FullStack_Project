@@ -1,0 +1,4 @@
+# Dependencies
+frontendApp/node_modules/
+frontendApp/package-lock.json
+frontendApp/.gitignore
